@@ -57,7 +57,7 @@
     
     self.animator = dynamic;
     */
-    
+    NSLog(@"sadasdssd");
     UIDynamicAnimator *dynamic = [[UIDynamicAnimator alloc]initWithReferenceView:self.view];
     UICollisionBehavior *collsionBehavior = [[UICollisionBehavior alloc]initWithItems:@[aView]];
     collsionBehavior.translatesReferenceBoundsIntoBoundary = YES;
