@@ -20,6 +20,7 @@
     ViewController *vc = [[ViewController alloc]init];
     UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:vc];
     self.window.rootViewController = nav;
+      //dasasdasaasdsa
     return YES;
 }
 
