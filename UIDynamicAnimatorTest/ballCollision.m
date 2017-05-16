@@ -174,6 +174,7 @@
         [[UIColor blackColor] setStroke];
         CGContextDrawPath(context, kCGPathFillStroke);
     }
+    //dasasdasaasdsa
 //    [self setBackgroundColor:[UIColor whiteColor]];
 }
 
